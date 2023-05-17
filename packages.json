@@ -39,13 +39,18 @@
         "url": "https://github.com/hughjonesd/namer"
     },
     
-       {
+    {
         "package": "truelies",
         "url": "https://github.com/hughjonesd/truelies"
     },
     
-       {
+    {
         "package": "anim.plots",
         "url": "https://github.com/hughjonesd/anim.plots"
     },
+    
+    {
+        "package": "apicheck",
+        "url": "https://github.com/hughjonesd/apicheck"
+    }
 ]
