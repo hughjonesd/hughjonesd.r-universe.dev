@@ -2,5 +2,50 @@
     {
         "package": "ggmagnify",
         "url": "https://github.com/hughjonesd/ggmagnify"
-    }
+    },
+    
+    {
+        "package": "huxtable",
+        "url": "https://github.com/hughjonesd/huxtable"
+    },
+    
+    {
+        "package": "santoku",
+        "url": "https://github.com/hughjonesd/santoku"
+    },
+
+    {
+        "package": "latexdiffr",
+        "url": "https://github.com/hughjonesd/latexdiffr"
+    },
+
+    {
+        "package": "rcheology",
+        "url": "https://github.com/hughjonesd/rcheology"
+    },
+
+    {
+        "package": "doctest",
+        "url": "https://github.com/hughjonesd/doctest"
+    },
+
+    {
+        "package": "onetime",
+        "url": "https://github.com/hughjonesd/onetime"
+    },
+
+    {
+        "package": "namer",
+        "url": "https://github.com/hughjonesd/namer"
+    },
+    
+       {
+        "package": "truelies",
+        "url": "https://github.com/hughjonesd/truelies"
+    },
+    
+       {
+        "package": "anim.plots",
+        "url": "https://github.com/hughjonesd/anim.plots"
+    },
 ]
