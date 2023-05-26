@@ -1,7 +1,8 @@
 [
     {
         "package": "ggmagnify",
-        "url": "https://github.com/hughjonesd/ggmagnify"
+        "url": "https://github.com/hughjonesd/ggmagnify",
+        "branch": "*release"
     },
     
     {
