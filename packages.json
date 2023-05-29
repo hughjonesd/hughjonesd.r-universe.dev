@@ -24,17 +24,20 @@
 
     {
         "package": "rcheology",
-        "url": "https://github.com/hughjonesd/rcheology"
+        "url": "https://github.com/hughjonesd/rcheology",
+        "branch": "*release"
     },
 
     {
         "package": "doctest",
-        "url": "https://github.com/hughjonesd/doctest"
+        "url": "https://github.com/hughjonesd/doctest",
+        "branch": "*release"
     },
 
     {
         "package": "onetime",
-        "url": "https://github.com/hughjonesd/onetime"
+        "url": "https://github.com/hughjonesd/onetime",
+        "branch": "*release"
     },
 
     {
