@@ -13,7 +13,8 @@
     
     {
         "package": "santoku",
-        "url": "https://github.com/hughjonesd/santoku"
+        "url": "https://github.com/hughjonesd/santoku",
+        "branch": "*release"
     },
 
     {
