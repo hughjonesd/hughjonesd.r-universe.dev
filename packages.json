@@ -64,5 +64,11 @@
         "package": "codesamples",
         "url": "https://github.com/hughjonesd/codesamples",
         "branch": "*release"
+    },
+
+    {
+        "package": "namer",
+        "url": "https://github.com/hughjonesd/namer",
+        "branch": "*release"
     }
 ]
