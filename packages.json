@@ -1,5 +1,10 @@
 [
     {
+        "package": "Rmlx",
+        "url": "https://github.com/hughjonesd/Rmlx",
+        "branch": "*release"        
+    },
+    {
         "package": "ggmagnify",
         "url": "https://github.com/hughjonesd/ggmagnify",
         "branch": "*release"
