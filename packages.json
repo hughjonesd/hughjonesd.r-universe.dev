@@ -1,8 +1,7 @@
 [
     {
         "package": "Rmlx",
-        "url": "https://github.com/hughjonesd/Rmlx",
-        "branch": "*release"        
+        "url": "https://github.com/hughjonesd/Rmlx"
     },
     {
         "package": "ggmagnify",
